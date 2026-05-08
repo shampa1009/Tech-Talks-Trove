@@ -19,6 +19,14 @@ Replit-এর AI vibe coding platform নিয়ে App Store-এ সমস্
 • Policy violation
 • Unstable functionality
 
+Replit is a browser-based development platform where the user can:
+• Write code
+• Run code
+• Deploy apps
+👉 All from a browser — no local setup needed
+It was founded with the vision:
+“Anyone should be able to build software from anywhere.”
+
 Recent security research-এ দেখা গেছে হাজার হাজার AI-generated app public internet-এ sensitive data expose করছে:
 • Medical data
 • Personally indentifiable data 
